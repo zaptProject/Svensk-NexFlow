@@ -7,8 +7,6 @@ I **Sverige** har de flesta organisationer redan investerat tungt i digitala ver
 
 Det är i det mellanrummet som **Svensk NexFlow** försöker lägga sig. Tanken är inte att ersätta alla befintliga system i Sverige, utan att erbjuda en sammanhängande miljö där flöden, regler och utförda steg hänger ihop. Innan man ritar om sina processer vill de flesta ändå se mer än en broschyr – många börjar därför med att **[besöka den officiella webbplatsen för Svensk NexFlow](https://svensknexflow.com/?utm_term=annghsvu192)** och jämföra plattformens filosofi med sina befintliga arbetssätt.
 
-![Svenskt kontor med medarbetare som diskuterar framför skärmar](https://gobright.com/wp-content/uploads/2026/09/netgo-GoBright_Meetingbooking-1024x683.jpg)
-
 ## Vad är Svensk NexFlow för organisationer i Sverige?
 För svenska verksamheter är **Svensk NexFlow** mindre en ”ytterligare dashboard” och mer ett arbetsrum byggt kring tre grundfrågor: vilka data använder vi, vilka regler ska gälla och hur visar vi i efterhand vad som faktiskt gjordes. Plattformen samlar relevanta strömmar – marknadsdata, interna nyckeltal, operativa signaler – i **filtrerbara vyer** och låter användaren koppla tydliga regler och åtgärder till dessa vyer.
 
